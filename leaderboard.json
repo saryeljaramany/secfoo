@@ -1,0 +1,27 @@
+{
+  "repo": "saryeljaramany/secfoo",
+  "generated_at": "2026-11-21T00:00:32Z",
+  "since": null,
+  "points": {
+    "hard": 10,
+    "medium": 6,
+    "low": 3
+  },
+  "levels": [
+    {
+      "name": "Gold",
+      "min_points": 100
+    },
+    {
+      "name": "Silver",
+      "min_points": 50
+    },
+    {
+      "name": "Bronze",
+      "min_points": 25
+    }
+  ],
+  "contributors": [],
+  "awards": [],
+  "needs_difficulty": []
+}
