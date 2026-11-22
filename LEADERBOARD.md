@@ -1,6 +1,6 @@
 # secfoo contributor leaderboard
 
-_Updated 2026-11-21 19:15:15 UTC by [`leaderboard.yml`](https://github.com/saryeljaramany/secfoo/blob/main/.github/workflows/leaderboard.yml). Generated file; edits here are overwritten._
+_Updated 2026-11-22 06:47:51 UTC by [`leaderboard.yml`](https://github.com/saryeljaramany/secfoo/blob/main/.github/workflows/leaderboard.yml). Generated file; edits here are overwritten._
 
 ## Standings
 
